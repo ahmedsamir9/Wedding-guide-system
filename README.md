@@ -1,6 +1,6 @@
 # Wedding-guide-system
 wedding guide system for arranging weddings in desktop app
-## covered rechnologies:
+## covered technologies:
 - c#
 - sql database
 - mvc
